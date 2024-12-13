@@ -36,7 +36,7 @@ Adicione lógica de validação no backend para todas as regras de negócio desc
 
 Crie exemplos de execução utilizando **Postman** ou similar para testar os serviços.
 
-Após concluir a prova, criar um depositório no GitHub e dpositar sua prova com o seu nome completo e numero de telefone, mandar para o email: sergio.melges@infinitfy.com.
+Após concluir a prova, criar um depositório no GitHub e depositar sua prova com o seu nome completo e numero de telefone, mandar para o email: sergio.melges@infinitfy.com.
 
 ## **Criação de Serviços:**
 
