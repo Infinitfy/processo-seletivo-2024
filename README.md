@@ -63,7 +63,6 @@ O sistema deve implementar as seguintes entidades e características:
 
 \- **Chave única** para ICAO, razão social, CNPJ, telefone e e-mail.
 
-\- **Não pode ser modificada** após cadastrada (somente leitura).
 
 ### 2. **Aeronave (somente leitura):**
 
@@ -73,7 +72,6 @@ O sistema deve implementar as seguintes entidades e características:
 
 \- **Chave única** composta por **marca, modelo e número de série.**
 
-**\- Não pode ser modificada** após cadastrada (somente leitura).
 
  ### 3 **PropriedadeAeronave (somente leitura):**
 
@@ -83,7 +81,6 @@ O sistema deve implementar as seguintes entidades e características:
 
 \- **Chave única** composta por ID da aeronave e ID da companhia.
 
-\- Somente leitura.
 
  ### **4\. Aeroporto (somente leitura):**
 
@@ -91,7 +88,6 @@ O sistema deve implementar as seguintes entidades e características:
 
 \- Chave única para ICAO.
 
-\- **Não pode ser modificada** após cadastrada (somente leitura).
 
 ### **5\. Conexão (somente leitura):**
 
@@ -99,7 +95,6 @@ O sistema deve implementar as seguintes entidades e características:
 
 \- Chave única composta pelos IDs de aeroporto de origem e destino.
 
-\- Somente leitura.
 
 ### **6\. Passageiro:**
 
