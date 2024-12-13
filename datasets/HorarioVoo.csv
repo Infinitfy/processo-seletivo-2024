@@ -1,4 +1,4 @@
-id_horario_voo;id_companhia;id_conexao;id_aeronave;capacidade_total;assentos_reservados ;data;partida_prevista;chegada_prevista;partida_real;chegada_real;situacao_voo;situacao_partida;situacao_chegada
+id_horario_voo;id_companhia;id_conexao;id_aeronave;capacidade_total;assentos_reservados;data;partida_prevista;chegada_prevista;partida_real;chegada_real;situacao_voo;situacao_partida;situacao_chegada
 1c7041ea-01e6-4c0b-ad2f-dd776dfc73cd;ce426038-3585-408e-ac04-b844922479ef;cd7ff42b-f67e-4e81-abe3-22a426f85693;fd44458d-98c2-4afd-99a3-95a34df5c316;200;0;11/11/2024;01/01/1900 09:15;01/01/1900 11:20;09:15:00;09:51:00;CONCLUÍDO;PONTUAL;ATRASADO
 84300f5a-392c-4f66-a5f9-ba11ea054567;ce426038-3585-408e-ac04-b844922479ef;7ae3649b-5da9-44b3-9c16-92b522a9a1a4;2b07af62-655f-45ac-a67d-4901ab13fe66;200;0;12/12/2024;01/01/1900 12:05;01/01/1900 14:05;;;AGUARDANDO;;
 e9ea6cab-bedf-4d62-8185-cf78c875e293;ce426038-3585-408e-ac04-b844922479ef;a0e10c0d-95ff-41be-ade1-0b9ce266e162;9059a502-86c5-46dc-9316-2e935c7053c9;200;0;15/11/2024;01/01/1900 15:40;01/01/1900 17:15;15:40:00;17:15:00;CONCLUÍDO;PONTUAL;PONTUAL
